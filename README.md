@@ -122,33 +122,7 @@ Satisfactory completion of all the following items earns a grade of A for the co
 
 11. Complete the additional assignments: the annotated bibliography, the criticial thinking activity, and the in-class integrative learning questionnaire.
 
-**Plus and minus grades** are awarded for work that falls between two of the contract levels. For example, if you do more than the required work for a C, but not quite enough to earn a full B, you could receive either a C+ or B- depending on how close you are to the full B standard.
-
-### Why Are You Doing This To Us?
-
-1. In a traditional system, your grade is ultimately determined by my judgment of your work. My judgment is pretty good, but specs grading gives you more clarity about where you stand and guidance for how to achieve the grade you want
-
-2. Your grade is directly tied to the learning that you demonstrate. The satisfactory work sets a baseline, but to earn a higher grade, you must demonstrate a higher level of engagement with the course material.
-
-3. It's relatively easy to get a B if you do the required work, but hard to get an A. This preserves the integrity of the course, while still making it possible for everyone to succeed.
-
-4. If you only need a B or a C, you can adjust your effort accordingly: the standards are transparent. You don't have to spend time on the most difficult assignments if you don't need them to get the result you want.
-
-5. It reflects how you'll be evaluated in your career. Work assignments aren't graded out of 100% and your boss won't give partial credit for incomplete work. So, basically, I'm setting you up for massive career success.
-
-### I Feel Decidedly Uncomfortable
-
-This is probably a new approach to grading for you. In particular, students new to specs grading often have anxiety about the lack of partial credit in the system.
-
-Here are a few things to keep in mind:
-
-1. **You don't have to be perfect**. The "substantially complete and correct" standard allows for imperfections in your answers and you only need 90% of the available question points over the semester, so you don't have to correctly answer, or even attempt, every programming problem or quiz question.
-
-2. **You *do* need to be consistent**. The system rewards you for putting forward good, consistent effort. Working diligently and carefully will allow you to accumulate all of the points that you need for a B.
-
-3. **You will get lots of feedback**. The project specifications will tell you, unambiguously, whether your answers for a programming question are correct or not. The standards for the final project and the reading questions will likewise be transparent.
-
-4. **Some work will be done in class**. Most of the final project will be done during the last few class meetings.
+**Plus and minus grades** are awarded for work that falls between two of the contract levels. For example, if you do more than the required work for a B, but not quite enough to earn a full A, you could receive either a B+ or A- depending on how close you are to the full B standard.
 
 ## COVID Policies
 
