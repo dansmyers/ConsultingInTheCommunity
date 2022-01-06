@@ -35,41 +35,6 @@ There is no official textbook. I'll provide you with some relevant readings duri
 
 ### Planned Schedule of Topics
 
-| Day | Topic  |  Assignments |
-|------|---------|-------------|
-|January 11|    Hello, Java! | |
-|January 13|    Variables, types, input with `Scanner` ||
-|January 18|    The `if` statement |  |
-|January 20|    Intro to arrays | Assignment 1 due|
-|January 25|    The `for` loop and looping over arrays ||
-|January 27|    Two-dimensional arrays ||
-|February 1|    The `while` loop ||
-|February 3|   Writing static methods |Assignment 2 due|
-|February 8|    Intro to recursion ||
-|February 10|    Recursion practice ||
-|February 15|    Memory, the stack, and local variables ||
-|February 17|    Testing methods|Assignment 3 due|
-|February 22|        Intro to objects and classes ||
-|February 24|       Writing classes that have data  ||
-|March 1|        Writing classes that have methods||
-|March 3|      Class writing practice   |Assignment 4 due|
-|March 8|      Working with files + dealing with exceptions ||
-|March 10|      Midterm exam | |
-|March 15|      Spring Break (no class) ||
-|March 17|      Spring Break (no class) ||
-|March 15|      Java data structures: `ArrayList` ||
-|March 17|       Java data structures: `HashMap` ||
-|March 22|       Project: A Compleat Shakespearean Search Engine ||
-|March 24|        Spring Boot | Assignment 5 due |
-|March 29|       Spring Boot II ||
-|March 31|      Fully operational search engine ||
-|April 5|      Searching and an intro to complexity analysis ||
-|April 7|      Big-O notation |Assignment 6 due|
-|April 12|      Sorting algorithms ||
-|April 14|      Recursive sorting algorithms ||
-|April 19| Topic |
-|April 21| Topic / Flex for Fox Day |
-
 
 ### Other Important Dates
 
@@ -152,6 +117,8 @@ Satisfactory completion of all the following items earns a grade of A for the co
 9. Conduct a thematic analysis of your data. We'll go over the process for doing this in class.
 
 10. Prepare a satisfactory white paper using the template and guidelines I will give you to report your results back to the community partner.
+
+11. Participate in the Foundations Summit on Tuesday, April 19 from 9:00 to 10:30 AM.
 
 11. Complete the additional assignments: the annotated bibliography, the criticial thinking activity, and the in-class integrative learning questionnaire.
 
