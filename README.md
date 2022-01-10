@@ -23,36 +23,13 @@ This capstone course gives you the opportunity to complete a significant researc
 Ripple Effect Mapping, we'll be investigating the impacts of community programs and providing advice to our partners on their work, strategy, and messaging. In
 addition to conducting your study and preparing a white paper summarizing your findings, we'll also learn more about community development, entrepreneurship, and revisit important ideas from the liberal arts that have come up in your previous Rollins classes.
 
-## Learning Outcomes
-
 
 ## Textbook
 
 There is no official textbook. I'll provide you with some relevant readings during the semester and you'll conduct a literature review for your own project.
 
 
-## Schedule
-
-### Planned Schedule of Topics
-
-
-### Other Important Dates
-
-- First day of class: January 10
-- Last day of class: April 25
-- Spring break: March 14 to March 20
-- Last day to drop the class: January 24
-- Last day to withdraw without penalty: March 25
-- Fox Day will probably be in the first part of April. Everything in April is designed to be flexible, so we can take a day off and adjust the schedule if we need to.
-
-## The All-Important Grading Section
-
-### Specs Grading
-Grading for this course will be different from your previous classes.
-
-Rather than calculating your score as number of points on a 0-100 scale, your grade will be based on attaining **satisfactory** performance on a bundle of assignments. This approach is called **Specifications Grading** or **Contract Grading** and it has several advantages over the traditional 0-100 based points system.
-
-The grading system for this class is simple: **Do all of the required work (described in more detail below) and you get an A**. That's it. If you fail to complete some items, your grade will be reduced to something less than an A.
+## Course Plan and Topics
 
 ### Ripple Effect Mapping
 
@@ -85,6 +62,41 @@ You will also complete three additional assignments:
 - An annotated bibliography summarizing other work related to your REM project.
 - A short critical thinking paper, requiring your to read and evaluate an article.
 - An short in-class integrative learning activity.
+
+
+### Planned Schedule of Topics
+
+Our schedule will be determined ultimately the by needs of our partners and the flow of the semester. However, here's a general guide for how I see things breaking down.
+
+- Early to mid January: Get organized in teams, get in touch with partners, plan for on-campus REM projects.
+
+- February: Conduct on-campus REM projects, prepare for data collection with partners.
+
+- Before March 14: Conduct REM session with partners.
+
+- After returning from Spring Break to end of April: Analyze data and write-up results.
+
+- End of April: Foundations Summit.
+
+
+### Other Important Dates
+
+- First day of class: January 10
+- Last day of class: April 25
+- Spring break: March 14 to March 20
+- Last day to drop the class: January 24
+- Last day to withdraw without penalty: March 25
+- Fox Day will probably be in the first part of April. Everything in April is designed to be flexible, so we can take a day off and adjust the schedule if we need to.
+
+## The All-Important Grading Section
+
+### Specs Grading
+Grading for this course will be different from your previous classes.
+
+Rather than calculating your score as number of points on a 0-100 scale, your grade will be based on attaining **satisfactory** performance on a bundle of assignments. This approach is called **Specifications Grading** or **Contract Grading** and it has several advantages over the traditional 0-100 based points system.
+
+The grading system for this class is simple: **Do all of the required work (described in more detail below) and you get an A**. That's it. If you fail to complete some items, your grade will be reduced to something less than an A.
+
 
 ### Satisfactory Credit
 
