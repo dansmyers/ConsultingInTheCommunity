@@ -33,7 +33,7 @@ There is no official textbook. I'll provide you with some relevant readings duri
 
 ### Ripple Effect Mapping
 
-<img src="https://miro.medium.com/max/1400/1*ENYstY9tEiicqgKAPeKaIw.png" width="50% />
+<img src="https://miro.medium.com/max/1400/1*ENYstY9tEiicqgKAPeKaIw.png" width="50%" />
 
 The centerpiece of this course is an impact assessment project that you'll complete in partnership with a community organization. The ultimate goal and scope of your study will be determined early in the semester through conversations with your partner, but it will focus on documenting the impact of one of the organizations' programs.
 
