@@ -2,7 +2,6 @@
 
 ## Spring 2022 Syllabus
 
-<img src="Crave_Graduates_Mind_Map.jpg" />
 
 ## Who? Where?
 
@@ -32,6 +31,9 @@ There is no official textbook. I'll provide you with some relevant readings duri
 
 
 ## Course Plan and Topics
+
+<img src="Crave_Graduates_Mind_Map.jpg" />
+
 
 ### Ripple Effect Mapping
 
