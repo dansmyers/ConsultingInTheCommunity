@@ -2,6 +2,8 @@
 
 ## Spring 2022 Syllabus
 
+<img src="Crave_Graduates_Mind_Map.jpg" />
+
 ## Who? Where?
 
 Dan S. Myers (Dr. Myers)  
