@@ -37,7 +37,6 @@ There is no official textbook. I'll provide you with some relevant readings duri
 
 ### Ripple Effect Mapping
 
-<img src="https://miro.medium.com/max/1400/1*ENYstY9tEiicqgKAPeKaIw.png" width="50%" />
 
 The centerpiece of this course is an impact assessment project that you'll complete in partnership with a community organization. The ultimate goal and scope of your study will be determined early in the semester through conversations with your partner, but it will focus on documenting the impact of one of the organizations' programs.
 
@@ -54,6 +53,9 @@ An REM session works like an extended think-pair-share discussion activity and t
 3. The final and longest part is a full-group collaborative mind-mapping activity. The facilitators prompt the participants to share thoughts and experiences that emerged during their reflections and interviews. As themes emerge, the facilitators draw out a mind map on a large piece of paper at the front of the room.
 
 The complete data set from the REM session consists of the mind map, written responses, and transcription of the participants comments during the discussion. The research team then mines the data for important themes.
+
+<img src="https://miro.medium.com/max/1400/1*ENYstY9tEiicqgKAPeKaIw.png" width="50%" />
+
 
 ### Projects
 
