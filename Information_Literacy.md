@@ -6,7 +6,7 @@
 
 We're going to build a collaborative bibliography of papers and their summaries related to community development. These papers will be a resource for your own white papers as well as for future versions of this class.
 
-You're going to identify **four** papers related to one of the themes described in the next section, then prepare a one paragraph summary of each one. Your summaries should cover (in four to six sentences) the main idea of the paper, the methods or data that it draws upon, and the key results.
+You're going to identify **three** papers related to one of the themes described in the next section, then prepare a one paragraph summary of each one. Your summaries should cover (in four to six sentences) the main idea of the paper, the methods or data that it draws upon, and the key results.
 
 In addition to completing the one paragraph summary, include a second short (one to three sentence) statement describing how you located each paper and the criteria that you used to identify it as a useful resource.
 
