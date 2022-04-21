@@ -1,6 +1,6 @@
 # Information Literacy Assignment
 
-## Due Tuesday, 4/26 (Tuesday after the end of classes)
+## Due ~Tuesday, 4/26 (Tuesday after the end of classes)~ Thursday, 4/28 (day that would have been our final exam)
 
 ## Summary
 
