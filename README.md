@@ -68,7 +68,7 @@ You will work with your team to complete two Ripple Effect Mapping projects.
 You will also complete three additional assignments:
 
 - An annotated bibliography summarizing other work related to your REM project.
-- A short critical thinking paper, requiring your to read and evaluate an article.
+- A short critical thinking paper, requiring you to read and evaluate an article.
 - An short in-class integrative learning activity.
 
 
